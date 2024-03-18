@@ -7,14 +7,7 @@ defineProps({
 })
 </script>
 
-<template>
-  <div class="greetings">
-    
-    <h1>
-      Sentiment Analysis sd
-    </h1>
-  </div>
-</template>
+
 
 <style scoped>
 h1 {
