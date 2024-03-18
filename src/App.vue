@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-
+<p>HEI!</p>
   </header>
 
   <main>

@@ -6,8 +6,10 @@
     <div class="details">
       <h3>
         <slot name="heading"></slot>
+        
+        
       </h3>
-      <slot></slot>
+      <slot> </slot>
     </div>
   </div>
 </template>
